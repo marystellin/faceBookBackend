@@ -1,0 +1,16 @@
+{
+  "post": [
+    {
+      "title": "hello world",
+      "id": 1
+    },
+    {
+      "title": "hai folks",
+      "id": 2
+    },
+    {
+      "title": "happy morning",
+      "id": 3
+    }
+  ]
+}
